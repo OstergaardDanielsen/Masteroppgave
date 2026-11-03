@@ -1,0 +1,154 @@
+---
+title: "Untitled"
+format: html
+---
+
+```{r}
+library(tidyverse)
+
+```
+
+
+### My Procedure
+
+For my analysis, i will use median income after taxes,
+because we want to measure the impact of energy prices on people's 
+disposable income. 
+
+
+### Income data per price region
+
+To identify how the price hikes affected the different price regions, 
+we will combine median households for counties in the same price areas.
+
+```{r}
+
+median_incomes <- read_delim("Inntekt_fylke_median_etter_skatt.csv",
+    skip = 1,
+    locale = locale(encoding = "latin1"),
+    delim = ";",
+    na = ".")
+
+
+median_incomes <- median_incomes |>
+    select(-"type of household") |>
+    pivot_longer(cols = starts_with("Income"),
+        names_to = "year",
+        values_to = "median_income",
+        names_prefix = "Income after taxes, median \\(NOK\\) ")
+
+median_incomes <- median_incomes |>
+    mutate(
+        region = word(str_remove(region, "^[0-9]+\\s+"), 1)
+    ) |>
+    filter(!is.na(median_income))
+
+
+```
+
+As we can see, there are gaps in data for several counties.
+This was due to a policy of merging together counties, 
+three of which were seperated again. 
+
+In these cases, I will act like merged counties were always there, by creating a "mock median" using weighted averages of medians from the previous counties, where each weight
+reflects a previous county's population share. 
+
+Price zones haven't changed during the scope of this analysis. 
+
+Extracting population data for each county. 
+```{r}
+county_pops <- read_delim("Befolkning_etter_fylke.csv",
+        skip = 1,
+        locale = locale(encoding = "latin1"),
+        delim = ";",
+        na = "0")
+
+
+county_pops <- county_pops |>
+    pivot_longer(cols = contains("Befolkning"),
+        names_to = "year",
+        values_to = "population",
+        names_pattern = "^([0-9]+)")
+
+county_pops <- county_pops |>
+    mutate(
+        region = word(str_remove(region, "^[0-9]+\\s+"), 1)
+    ) |>
+    filter(!is.na(population))
+
+#test for duplicates (same county but different data series)
+county_pops |> count(region, year) |> filter(n > 1)
+
+
+
+county_pops <- county_pops |>
+    group_by(region, year) |>
+    summarise(
+        population = if (all(is.na(population))) NA_real_ else sum(population, na.rm = TRUE),
+        .groups = "drop"
+    )
+
+
+
+county_pops |> count(region, year) |> filter(n > 1)
+
+```
+
+Let's combine the tables
+
+```{r}
+#A quick check before merging
+
+county_pops |> count(region, year) |> filter(n > 1)
+median_incomes |> count(region, year) |> filter(n > 1)
+
+
+median_incomes <- inner_join(county_pops, median_incomes, 
+                            by = join_by(region, year))
+```
+
+Maybe we don't need to change the data at all. It's necessary if we wish to make time
+series for different counties, but not for maps. 
+
+For this thesis it will suffice with a rough mapping of the counties to 
+the different price zones. 
+
+This is how we will map counties to price zones. 
+
+This is based on definitions by snl. https://snl.no/prisomr%C3%A5der_for_str%C3%B8m
+
+This is how i will map the counties to price zones, based on definitions by SNL.
+Most of the counties that overlap price zones, do so in a negligable manner. 
+Some exceptions are Telemark, buskerud and Vestland county. 
+Since we are most interested in the effects of energy prices on people,
+it makes sense to assign these overlapping counties to the price area
+in which the majority of its population resides. 
+Thus, i will make the simplification that vestland county resides in NO5,
+Telemark resides in NO2, and buskerud in NO1. 
+
+
+exception is vestland county, which is split almost perfectly in three between NO5, NO3 and NO2. 
+
+
+NO1: Oslo, Akershus, Østfold, vestfold, Buskerud, Innlandet. 
+
+NO2: Agder, Rogaland, Telemark, Vestfold
+
+NO3: Møre og Romsdal, Trøndelag
+
+NO4: Nordland, Troms, Finnmark
+
+NO5: Southern parts of vestland. 
+
+```{r}
+price_zones <- c("NO1", "NO2", "NO3", "NO4", "NO5")
+
+
+
+median_incomes <- median_incomes |>
+    mutate(
+        price_zone = 
+    )
+```
+
+

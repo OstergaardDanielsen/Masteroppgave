@@ -1,0 +1,547 @@
+"12558: Inntekt for husholdninger, etter statistikkvariabel, region, inntekt før/etter skatt, desil og år"
+
+"statistikkvariabel";"region";"inntekt før/etter skatt";"desil";"2014";"2015";"2016";"2017";"2018";"2019";"2020";"2021";"2022";"2023";"2024"
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;10.2
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;11.7
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;10.2
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;9.9
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;10.5
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;10.7
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;10.7
+"Andel husholdninger (prosent)";"31 Østfold";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;10.2
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;8.4
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;8.1
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;9.5
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;9.3
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;8.8
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;9.5
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;10.1
+"Andel husholdninger (prosent)";"32 Akershus";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;10.4
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;8.8;8.9;9.0;9.0;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;9.5;9.5;9.5;9.5;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;9.8;9.8;9.8;9.9;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;9.4;9.5;9.5;9.6;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;9.6;9.6;9.5;9.6;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;10.1;10.1;10.0;10.0;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;10.3;10.3;10.3;10.3;.
+"Andel husholdninger (prosent)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;10.3;10.2;10.3;10.3;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 1";9.9;10.0;10.0;10.0;10.1;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 2";11.7;11.6;11.6;11.5;11.5;11.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 3";10.4;10.4;10.2;10.2;10.2;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 4";10.2;10.1;10.0;10.0;10.1;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 5";10.7;10.7;10.8;10.7;10.7;10.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 6";10.8;10.8;10.7;10.7;10.8;10.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 7";10.7;10.7;10.7;10.6;10.5;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 8";10.3;10.0;10.1;10.1;10.1;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 1";8.0;7.8;7.8;7.7;7.7;7.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 2";7.8;7.9;7.9;7.9;7.9;8.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 3";9.2;9.2;9.2;9.2;9.3;9.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 4";8.8;8.9;8.9;9.0;8.9;9.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 5";8.9;8.7;8.8;8.8;8.8;8.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 6";9.6;9.7;9.6;9.7;9.7;9.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 7";9.9;10.0;10.0;10.0;10.0;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 8";10.5;10.5;10.4;10.4;10.4;10.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 1";12.9;12.8;12.8;12.7;12.8;12.8;12.5;12.5;12.5;12.6;12.6
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 2";10.1;10.0;9.8;9.7;9.5;9.3;9.3;9.0;8.9;8.7;8.6
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 3";11.7;11.5;11.5;11.4;11.3;11.2;11.0;11.0;10.9;10.6;10.4
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 4";11.8;11.7;11.6;11.5;11.6;11.5;11.5;11.4;11.5;11.7;11.5
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 5";10.5;10.4;10.4;10.4;10.2;10.2;10.3;10.1;10.3;10.3;10.3
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 6";9.3;9.2;9.3;9.1;9.2;9.2;9.3;9.2;9.2;9.2;9.2
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 7";7.8;8.0;7.9;8.1;8.2;8.3;8.4;8.3;8.4;8.4;8.4
+"Andel husholdninger (prosent)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 8";7.4;7.5;7.5;7.6;7.7;7.8;7.8;7.9;8.0;8.1;8.2
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;10.7;10.8;10.6;10.5;10.5
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;11.8;11.8;11.9;12.2;12.3
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;10.6;10.6;10.6;10.7;10.7
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;10.4;10.3;10.2;10.0;10.1
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;10.6;10.7;10.7;10.7;10.7
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;10.6;10.6;10.5;10.6;10.7
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;10.6;10.6;10.6;10.6;10.6
+"Andel husholdninger (prosent)";"34 Innlandet";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;9.8;9.7;9.7;9.8;9.7
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 1";11.1;11.1;10.9;10.7;10.6;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 2";11.8;11.8;11.8;12.0;11.9;11.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 3";10.8;10.7;10.6;10.4;10.5;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 4";10.4;10.4;10.4;10.3;10.5;10.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 5";10.7;10.8;10.8;10.9;10.8;10.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 6";10.9;10.8;10.7;10.8;10.7;10.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 7";10.8;10.8;10.7;10.6;10.5;10.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 8";9.7;9.6;9.7;9.7;9.7;9.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 1";11.2;11.1;10.9;10.7;10.5;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 2";11.5;11.2;11.2;11.2;11.3;11.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 3";10.4;10.5;10.4;10.3;10.3;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 4";10.4;10.1;10.3;10.3;10.2;10.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 5";10.2;10.2;10.3;10.5;10.3;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 6";10.6;10.8;10.5;10.4;10.5;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 7";11.1;11.0;10.9;10.9;10.9;10.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 8";10.1;10.1;10.0;10.0;10.1;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;9.9
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;10.7
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;10.5
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;10.0
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;10.2
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;10.3
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;10.2
+"Andel husholdninger (prosent)";"33 Buskerud";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;9.8
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 1";9.8;9.8;9.6;9.4;9.2;9.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 2";10.2;10.2;10.3;10.1;10.1;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 3";10.2;10.2;10.0;10.2;10.3;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 4";9.8;9.8;9.8;9.9;9.9;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 5";10.1;10.1;10.0;10.0;10.0;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 6";10.3;10.4;10.4;10.3;10.4;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 7";10.5;10.3;10.3;10.4;10.4;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 8";10.1;10.0;10.1;10.0;10.0;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;9.9
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;11.2
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;10.4
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;9.8
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;10.1
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;10.4
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;10.5
+"Andel husholdninger (prosent)";"39 Vestfold";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;10.0
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;10.7
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;11.6
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;10.2
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;9.8
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;10.5
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;10.6
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;10.6
+"Andel husholdninger (prosent)";"40 Telemark";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;9.9
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;10.1;10.3;10.2;10.2;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;11.2;11.2;11.3;11.3;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;10.5;10.3;10.3;10.4;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;9.9;9.8;9.8;9.7;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;10.2;10.2;10.2;10.1;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;10.4;10.5;10.5;10.5;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;10.4;10.4;10.5;10.5;.
+"Andel husholdninger (prosent)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;10.0;9.9;10.0;10.1;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 1";9.9;9.9;9.7;9.8;9.6;9.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 2";11.1;11.1;11.1;11.0;11.1;11.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 3";10.4;10.2;10.3;10.4;10.5;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 4";9.9;9.9;9.8;9.8;9.8;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 5";10.0;10.0;10.2;10.1;10.1;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 6";10.5;10.4;10.5;10.5;10.4;10.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 7";10.5;10.6;10.6;10.4;10.5;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 8";10.1;10.0;10.0;10.1;10.1;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 1";10.8;10.8;10.8;10.8;10.5;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 2";11.4;11.6;11.4;11.4;11.5;11.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 3";10.4;10.4;10.5;10.4;10.3;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 4";10.0;9.9;9.9;9.8;10.0;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 5";10.3;10.6;10.4;10.4;10.5;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 6";10.6;10.4;10.4;10.4;10.4;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 7";10.6;10.6;10.4;10.4;10.5;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 8";10.1;10.0;10.0;10.0;10.1;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;10.4;10.3;10.4;10.5;10.5
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;10.8;10.8;11.0;11.0;11.1
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;10.0;9.9;9.9;9.8;9.9
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;10.0;10.0;9.9;9.9;9.9
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;10.2;10.2;10.2;10.2;10.2
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;10.2;10.2;10.4;10.3;10.3
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;10.7;10.7;10.7;10.8;10.6
+"Andel husholdninger (prosent)";"42 Agder";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;10.7;10.6;10.5;10.6;10.6
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 1";10.0;10.3;10.1;10.3;10.1;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 2";10.5;10.6;10.7;10.9;11.0;11.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 3";9.8;9.9;9.9;10.0;9.9;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 4";9.9;9.7;10.0;9.8;9.8;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 5";10.2;10.2;10.3;10.3;10.4;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 6";10.7;10.7;10.7;10.8;10.7;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 7";11.2;11.3;11.1;10.9;11.0;10.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 8";10.7;10.4;10.3;10.5;10.7;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 1";9.9;10.2;10.4;10.7;10.6;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 2";10.4;10.3;10.4;10.5;10.6;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 3";9.6;9.7;9.6;9.8;9.8;9.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 4";10.0;10.0;9.9;9.9;10.2;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 5";9.9;9.9;10.0;9.9;9.8;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 6";10.0;10.1;10.2;10.2;10.2;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 7";10.9;10.7;10.8;10.7;10.5;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 8";10.9;10.8;10.7;10.8;10.7;10.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 1";8.0;8.3;8.7;8.8;8.8;8.9;9.1;8.9;8.9;8.7;8.5
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 2";8.3;8.4;8.7;8.8;8.8;8.8;8.8;8.8;8.8;8.8;8.7
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 3";8.2;8.4;8.6;8.8;8.8;8.8;8.7;8.8;9.0;9.0;9.0
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 4";9.0;9.3;9.3;9.4;9.3;9.3;9.2;9.4;9.2;9.3;9.3
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 5";9.5;9.6;9.8;9.6;9.7;9.6;9.6;9.5;9.6;9.5;9.6
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 6";9.5;9.5;9.5;9.7;9.6;9.8;9.7;9.7;9.7;9.8;9.7
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 7";9.7;9.9;9.9;10.1;10.1;10.0;10.1;10.1;10.1;10.0;10.0
+"Andel husholdninger (prosent)";"11 Rogaland";"Inntekt etter skatt";"Desil 8";10.5;10.7;10.8;10.7;10.8;10.7;10.6;10.6;10.6;10.7;10.6
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;9.5;9.5;9.4;9.3;9.2
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;9.6;9.6;9.6;9.6;9.5
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;9.5;9.6;9.5;9.6;9.6
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;9.7;9.7;9.7;9.6;9.6
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;9.8;9.7;9.7;9.7;9.7
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;9.9;10.0;10.1;10.1;10.1
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;10.1;10.1;10.1;10.1;10.1
+"Andel husholdninger (prosent)";"46 Vestland";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;10.5;10.6;10.5;10.5;10.5
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 1";9.0;9.1;9.1;9.2;9.5;9.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 2";9.4;9.5;9.6;9.6;9.5;9.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 3";9.5;9.5;9.6;9.6;9.6;9.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 4";9.7;9.7;9.8;9.8;9.7;9.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 5";9.8;9.9;9.8;9.8;9.8;9.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 6";9.8;9.8;10.0;10.1;9.9;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 7";9.9;9.9;10.1;10.0;10.1;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 8";10.5;10.5;10.5;10.5;10.5;10.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 1";9.5;9.4;9.8;9.7;9.3;9.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 2";9.6;9.6;9.6;9.6;9.8;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 3";9.3;9.4;9.5;9.3;9.4;9.4;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 4";9.6;9.6;9.6;9.7;9.4;9.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 5";9.7;9.8;9.6;9.7;9.8;9.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 6";9.8;9.8;9.6;9.7;9.9;9.9;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 7";10.9;10.3;10.2;10.1;10.1;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 8";11.1;11.3;11.2;11.1;11.2;11.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 1";9.7;9.8;10.0;9.9;10.0;9.9;10.1;9.6;9.8;9.7;9.6
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 2";9.9;9.8;9.9;10.1;10.1;10.2;10.1;10.2;10.2;10.3;10.4
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 3";9.1;9.2;9.4;9.4;9.2;9.3;9.3;9.3;9.5;9.6;9.8
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 4";9.4;9.5;9.5;9.5;9.5;9.4;9.4;9.6;9.5;9.4;9.3
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 5";10.0;10.1;9.9;10.0;10.1;10.1;10.2;10.1;10.1;10.2;10.1
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 6";9.9;9.8;9.9;10.0;10.0;10.0;9.9;9.9;9.9;10.0;10.1
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 7";10.3;10.4;10.5;10.6;10.4;10.4;10.3;10.3;10.4;10.2;10.3
+"Andel husholdninger (prosent)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 8";10.9;10.8;10.8;10.7;10.7;10.6;10.5;10.9;10.6;10.5;10.5
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 1";.;.;.;.;9.9;9.9;9.8;9.8;9.7;9.6;9.8
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 2";.;.;.;.;10.2;10.3;10.3;10.2;10.4;10.4;10.3
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 3";.;.;.;.;9.8;9.9;9.9;10.0;10.0;10.0;10.0
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 4";.;.;.;.;10.0;9.9;10.1;10.1;10.2;10.1;10.2
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 5";.;.;.;.;10.2;10.2;10.2;10.4;10.3;10.4;10.4
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 6";.;.;.;.;10.1;10.1;10.1;10.1;10.1;10.1;10.1
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 7";.;.;.;.;10.3;10.3;10.3;10.2;10.2;10.2;10.2
+"Andel husholdninger (prosent)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 8";.;.;.;.;10.5;10.6;10.6;10.5;10.4;10.4;10.4
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 1";9.7;9.6;9.6;10.0;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 2";10.1;10.0;9.9;9.9;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 3";10.2;10.2;10.1;10.1;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 4";10.0;10.1;10.1;10.1;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 5";10.0;10.1;10.0;9.9;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 6";10.0;10.1;9.9;9.8;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 7";10.3;10.1;10.2;10.1;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 8";10.4;10.5;10.5;10.4;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 1";10.1;10.0;9.9;9.8;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 2";10.7;10.8;10.7;10.7;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 3";9.6;9.6;9.4;9.4;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 4";9.8;9.7;9.7;9.6;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 5";10.3;10.4;10.4;10.5;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 6";10.8;10.8;10.9;10.8;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 7";11.4;11.3;11.2;11.0;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 8";10.7;10.9;10.9;11.1;.;.;.;.;.;.;.
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 1";10.4;10.1;10.0;10.0;9.9;9.6;:;9.7;10.0;10.1;9.9
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 2";10.9;11.0;11.0;11.0;11.1;11.2;11.2;11.3;11.3;11.4;11.5
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 3";10.3;10.1;10.2;10.1;10.1;10.1;10.2;10.2;10.3;10.3;10.2
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 4";10.0;10.0;10.0;9.8;9.9;9.9;9.9;9.9;10.0;9.9;10.0
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 5";10.3;10.3;10.2;10.4;10.4;10.4;10.2;10.3;10.3;10.3;10.4
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 6";10.5;10.5;10.4;10.4;10.4;10.5;10.4;10.5;10.4;10.4;10.4
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 7";10.4;10.3;10.4;10.3;10.2;10.3;10.3;10.3;10.1;10.2;10.1
+"Andel husholdninger (prosent)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 8";10.6;10.7;10.7;10.6;10.6;10.5;10.6;10.5;10.5;10.4;10.4
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;10.3
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;10.7
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;10.6
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;10.5
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;10.0
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;9.7
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;9.7
+"Andel husholdninger (prosent)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;9.9
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;9.8
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;11.3
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;10.5
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;9.9
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;10.1
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;10.0
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;9.6
+"Andel husholdninger (prosent)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;10.0
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;9.8;9.8;9.9;10.1;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;10.4;10.6;10.6;10.9;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;10.2;10.3;10.2;10.4;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;10.3;10.4;10.4;10.4;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;10.2;10.2;10.2;10.0;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;9.9;10.0;9.9;9.8;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;9.7;9.8;9.8;9.7;.
+"Andel husholdninger (prosent)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;10.2;10.2;10.1;10.0;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 1";10.3;10.1;9.8;9.6;9.9;9.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 2";10.3;10.1;10.2;10.3;10.3;10.3;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 3";9.9;10.1;10.2;10.1;10.1;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 4";10.3;10.4;10.3;10.4;10.5;10.6;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 5";10.0;9.9;9.9;9.9;10.1;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 6";9.9;9.9;9.9;9.8;9.9;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 7";10.1;10.1;10.0;10.0;9.9;9.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 8";10.4;10.5;10.4;10.3;10.1;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 1";10.0;10.2;10.2;10.1;10.5;10.0;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 2";10.8;10.7;10.5;10.6;10.6;10.5;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 3";10.3;10.3;10.1;10.0;9.9;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 4";10.0;9.8;9.9;9.9;9.6;9.8;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 5";10.0;10.0;9.9;10.1;10.2;10.1;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 6";10.1;10.1;10.1;10.1;10.0;10.2;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 7";9.6;9.6;9.5;9.5;9.6;9.7;.;.;.;.;.
+"Andel husholdninger (prosent)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 8";10.0;9.9;10.0;9.9;9.8;9.9;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"31 Østfold";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"32 Akershus";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;237000;247000;258000;279000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;300000;311000;324000;350000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;374000;388000;405000;435000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;456000;474000;494000;530000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;545000;566000;590000;635000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;653000;680000;710000;762000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;781000;813000;849000;912000;.
+"Høyeste verdi i desil (kr)";"30 Viken (2020-2023)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;927000;969000;1010000;1083000;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"01 Østfold (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"02 Akershus (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"03 Oslo - Oslove";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"34 Innlandet";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"04 Hedmark (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"05 Oppland (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"33 Buskerud";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"06 Buskerud (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"39 Vestfold";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"40 Telemark";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;237000;247000;258000;279000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;300000;311000;324000;350000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;374000;388000;405000;435000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;456000;474000;494000;530000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;545000;566000;590000;635000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;653000;680000;710000;762000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;781000;813000;849000;912000;.
+"Høyeste verdi i desil (kr)";"38 Vestfold og Telemark (2020-2023)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;927000;969000;1010000;1083000;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"07 Vestfold (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"08 Telemark (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"42 Agder";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"09 Aust-Agder (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"10 Vest-Agder (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"11 Rogaland";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"46 Vestland";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"12 Hordaland (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"13 Bergen (-1971)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"14 Sogn og Fjordane (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"15 Møre og Romsdal";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 1";.;.;.;.;225000;233000;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 2";.;.;.;.;287000;296000;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 3";.;.;.;.;359000;371000;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 4";.;.;.;.;438000;452000;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 5";.;.;.;.;524000;540000;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 6";.;.;.;.;628000;647000;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 7";.;.;.;.;746000;771000;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"50 Trøndelag - Trööndelage";"Inntekt etter skatt";"Desil 8";.;.;.;.;883000;915000;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"16 Sør-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"17 Nord-Trøndelag (-2017)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;.;.;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;237000;247000;258000;279000;294900
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;300000;311000;324000;350000;372000
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;374000;388000;405000;435000;462600
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;456000;474000;494000;530000;564300
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;545000;566000;590000;635000;676100
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;653000;680000;710000;762000;811000
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;781000;813000;849000;912000;971900
+"Høyeste verdi i desil (kr)";"18 Nordland - Nordlánnda";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;927000;969000;1010000;1083000;1156100
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"55 Troms - Romsa - Tromssa";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;.;.;.;.;294900
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;.;.;.;.;372000
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;.;.;.;.;462600
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;.;.;.;.;564300
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;.;.;.;.;676100
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;.;.;.;.;811000
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;.;.;.;.;971900
+"Høyeste verdi i desil (kr)";"56 Finnmark - Finnmárku - Finmarkku";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;.;.;.;.;1156100
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 1";.;.;.;.;.;.;237000;247000;258000;279000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 2";.;.;.;.;.;.;300000;311000;324000;350000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 3";.;.;.;.;.;.;374000;388000;405000;435000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 4";.;.;.;.;.;.;456000;474000;494000;530000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 5";.;.;.;.;.;.;545000;566000;590000;635000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 6";.;.;.;.;.;.;653000;680000;710000;762000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 7";.;.;.;.;.;.;781000;813000;849000;912000;.
+"Høyeste verdi i desil (kr)";"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"Inntekt etter skatt";"Desil 8";.;.;.;.;.;.;927000;969000;1010000;1083000;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"19 Troms - Romsa (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 1";204000;209000;213000;219000;225000;233000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 2";262000;269000;273000;279000;287000;296000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 3";329000;337000;342000;350000;359000;371000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 4";399000;410000;416000;426000;438000;452000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 5";479000;491000;498000;510000;524000;540000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 6";575000;589000;597000;611000;628000;647000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 7";682000;700000;708000;726000;746000;771000;.;.;.;.;.
+"Høyeste verdi i desil (kr)";"20 Finnmark - Finnmárku (-2019)";"Inntekt etter skatt";"Desil 8";805000;826000;836000;857000;883000;915000;.;.;.;.;.

@@ -1,0 +1,37 @@
+"06944: Households' income, by region, type of household, contents and year"
+
+"region";"type of household";"Income after taxes, median (NOK) 2014";"Income after taxes, median (NOK) 2015";"Income after taxes, median (NOK) 2016";"Income after taxes, median (NOK) 2017";"Income after taxes, median (NOK) 2018";"Income after taxes, median (NOK) 2019";"Income after taxes, median (NOK) 2020";"Income after taxes, median (NOK) 2021";"Income after taxes, median (NOK) 2022";"Income after taxes, median (NOK) 2023";"Income after taxes, median (NOK) 2024"
+"31 Østfold";"All households";.;.;.;.;.;.;.;.;.;.;648000
+"32 Akershus";"All households";.;.;.;.;.;.;.;.;.;.;756600
+"30 Viken (2020-2023)";"All households";.;.;.;.;.;.;574000;595000;620000;666000;.
+"01 Østfold (-2019)";"All households";456000;469000;477000;490000;503000;517000;.;.;.;.;.
+"02 Akershus (-2019)";"All households";552000;566000;573000;586000;601000;616000;.;.;.;.;.
+"03 Oslo - Oslove";"All households";423000;438000;446000;460000;475000;493000;501000;525000;548000;592000;635200
+"34 Innlandet";"All households";.;.;.;.;.;.;509000;528000;552000;594000;629500
+"04 Hedmark (-2019)";"All households";442000;453000;463000;475000;490000;505000;.;.;.;.;.
+"05 Oppland (-2019)";"All households";450000;464000;472000;485000;500000;513000;.;.;.;.;.
+"33 Buskerud";"All households";.;.;.;.;.;.;.;.;.;.;661600
+"06 Buskerud (-2019)";"All households";478000;491000;500000;513000;529000;544000;.;.;.;.;.
+"39 Vestfold";"All households";.;.;.;.;.;.;.;.;.;.;660600
+"40 Telemark";"All households";.;.;.;.;.;.;.;.;.;.;645800
+"38 Vestfold og Telemark (2020-2023)";"All households";.;.;.;.;.;.;527000;548000;574000;617000;.
+"07 Vestfold (-2019)";"All households";468000;481000;489000;501000;513000;527000;.;.;.;.;.
+"08 Telemark (-2019)";"All households";455000;465000;473000;486000;500000;517000;.;.;.;.;.
+"42 Agder";"All households";.;.;.;.;.;.;533000;554000;577000;620000;658500
+"09 Aust-Agder (-2019)";"All households";475000;484000;489000;499000;513000;526000;.;.;.;.;.
+"10 Vest-Agder (-2019)";"All households";480000;491000;495000;503000;516000;531000;.;.;.;.;.
+"11 Rogaland";"All households";547000;551000;547000;556000;571000;589000;592000;617000;643000;693000;739600
+"46 Vestland";"All households";.;.;.;.;.;.;564000;586000;613000;660000;704800
+"12 Hordaland (-2019)";"All households";503000;513000;517000;528000;542000;559000;.;.;.;.;.
+"13 Bergen (-1971)";"All households";.;.;.;.;.;.;.;.;.;.;.
+"14 Sogn og Fjordane (-2019)";"All households";499000;513000;516000;530000;545000;564000;.;.;.;.;.
+"15 Møre og Romsdal";"All households";495000;505000;509000;521000;535000;552000;554000;577000;600000;644000;685300
+"50 Trøndelag - Trööndelage";"All households";.;.;.;.;522000;538000;542000;561000;585000;629000;668200
+"16 Sør-Trøndelag (-2017)";"All households";479000;492000;500000;509000;.;.;.;.;.;.;.
+"17 Nord-Trøndelag (-2017)";"All households";475000;487000;497000;510000;.;.;.;.;.;.;.
+"18 Nordland - Nordlánnda";"All households";463000;478000;485000;499000;512000;529000;534000;552000;571000;615000;652200
+"55 Troms - Romsa - Tromssa";"All households";.;.;.;.;.;.;.;.;.;.;650600
+"56 Finnmark - Finnmárku - Finmarkku";"All households";.;.;.;.;.;.;.;.;.;.;658000
+"54 Troms og Finnmark - Romsa ja Finnmárku (2020-2023)";"All households";.;.;.;.;.;.;535000;554000;577000;616000;.
+"19 Troms - Romsa (-2019)";"All households";472000;485000;493000;506000;516000;533000;.;.;.;.;.
+"20 Finnmark - Finnmárku (-2019)";"All households";468000;482000;493000;503000;517000;534000;.;.;.;.;.
